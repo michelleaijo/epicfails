@@ -135,13 +135,3 @@ This project is designed to help you learn:
     Write unit and integration tests.
 
     Deploy the application to a cloud provider like Render, Vercel, or AWS.
-
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-📜 License
-
-Distributed under the MIT License. See LICENSE for more information.
-👨‍💻 Author
-
-Your Name - [Your Website/GitHub]
